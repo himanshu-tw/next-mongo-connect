@@ -1,6 +1,6 @@
 {
   "name": "next-mongo-connect",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "A reusable MongoDB connection utility for Next.js projects, using Mongoose ensuring efficient and consistent database connection.",
   "main": "index.ts",
   "scripts": {
